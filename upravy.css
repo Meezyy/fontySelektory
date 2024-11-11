@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&display=swap');
+
+body{
+    background-color: cornsilk;
+}
+#jedna{
+    color: blue;
+}
+#dva{
+    color: orange;
+}
+#p1{
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+}
+#tri{
+    background-color: yellow;
+}
+#ctyri{
+    background-color: red;
+    font-style: italic;
+}
